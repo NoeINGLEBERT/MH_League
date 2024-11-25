@@ -80,6 +80,10 @@
 		{
 			"Name": "Chooser",
 			"Enabled": true
+		},
+		{
+			"Name": "VRM4U",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
